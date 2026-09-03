@@ -7,7 +7,6 @@ The project displays a clean webpage featuring the text **"Hello Bangladesh 🇧
 
 
 
-
 ## 🛠️ Technologies Used
 
 - HTML5
